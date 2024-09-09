@@ -9,19 +9,5 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout code
-        uses: actions/checkout@v2
-
-      - name: Generate Snake Game
-        uses: Platane/snk@v3
-
-      - name: Generate snake animation
-        uses: Platane/snk/svg-only@v3
-
-      - name: Push Snake Game to the repository
-        run: |
-          git config --global user.name "github-actions"
-          git config --global user.email "github-actions@github.com"
-          git add -A
-          git commit -m "Update Snake Game"
-          git push
+      - name: generate-snake-game-from-github-contribution-grid
+        uses: Platane/snk@v3.2.0
