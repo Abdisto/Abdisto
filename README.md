@@ -28,6 +28,7 @@
 <details>
 <summary id="repo">My repos</summary>
 <br>
-  
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Abdisto&repo=python-discord-bot&theme=ocean_dark&bg_color=00000000)](https://github.com/Abdisto/python-discord-bot)
+  <a href="https://github.com/Abdisto/python-discord-bot">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Abdisto&repo=python-discord-bot&theme=ocean_dark&bg_color=00000000" />
+  </a>
 </details>
