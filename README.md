@@ -1,12 +1,11 @@
 # Abdist #1801
 
 <kbd>
-<p align="center">
-  
-  <img src="./dist/github-snake-dark.svg" />
-</p>
+  <p align="center">
+    <img src="./dist/github-snake-dark.svg" />
+  </p>
 
-<p align="center">
+  <p align="center">
   
   <picture>
     <source
@@ -15,8 +14,8 @@
     />
     <img height=180 src="https://github-readme-stats.vercel.app/api?username=Abdisto&show_icons=true" />
   </picture>
-  <img height=180 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdisto&langs_count=18&theme=ocean_dark&bg_color=00000000&layout=compact" />
-</p>
+    <img height=180 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdisto&langs_count=18&theme=ocean_dark&bg_color=00000000&layout=compact" />
+  </p>
 </kbd>
 <br><br>
 
@@ -39,5 +38,5 @@
 </details>
 
 <p>
-  <img width=2000 src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer"/>
+  <img width=890 src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer"/>
 </p>
