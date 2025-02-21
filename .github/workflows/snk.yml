@@ -23,7 +23,7 @@ jobs:
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
             dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
-            dist/github-snake-dark-2.gif?palette=github-dark&color_background=black&color_dots=#56306F,#6A3D8D,#7D4AAC,#9157CA,#A464E8
+            dist/github-snake-dark-2.gif?palette=github-dark&color_dots=#56306F,#6A3D8D,#7D4AAC,#9157CA,#A464E8
 
       - name: Commit and push the generated snake
         run: |
