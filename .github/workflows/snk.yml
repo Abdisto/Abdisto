@@ -29,6 +29,6 @@ jobs:
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add dist/github-snake.svg dist/github-snake-dark.svg dist/ocean.gif
+          git add dist/github-snake.svg dist/github-snake-dark.svg dist/ocean.gif dist/github-snake-dark-2
           git commit -m "Generated snake animation"
           git push
