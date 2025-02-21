@@ -2,7 +2,7 @@
 
 <kbd>
   <p align="center">
-    <img src="./dist/github-snake-dark.svg" />
+    <img src="./dist/github-snake-dark-2.gif" />
   </p>
 
   <p align="center">
