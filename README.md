@@ -1,6 +1,5 @@
 # Abdist #1801
 
-<kbd>
   <p align="center">
     <img src="./dist/github-snake-dark.svg" />
   </p>
@@ -16,7 +15,6 @@
   </picture>
     <img height=180 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdisto&langs_count=18&theme=ocean_dark&bg_color=00000000&layout=compact" />
   </p>
-</kbd>
 <br><br>
 
 <details>
