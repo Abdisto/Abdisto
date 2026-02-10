@@ -3,9 +3,8 @@
   <p align="center">
     <img src="./dist/github-snake-dark.svg" />
   </p>
-
+<!--- deprecated server shutdown due to plan changes (see https://github.com/anuraghazra/github-readme-stats/issues/3851#issuecomment-2237316047)
   <p align="center">
-  
   <picture>
     <source
       srcset="https://github-readme-stats.vercel.app/api?username=Abdisto&show_icons=true&theme=ocean_dark&bg_color=00000000"
@@ -15,6 +14,8 @@
   </picture>
     <img height=180 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdisto&langs_count=18&theme=ocean_dark&bg_color=00000000&layout=compact" />
   </p>
+  --->
+
 <br><br>
 
 <details>
